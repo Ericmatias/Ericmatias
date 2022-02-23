@@ -1,2 +1,2 @@
-Hi there! I'm Eric Matias, 17 years old. currently living here in Brazil! 
-Studying web development and Software Engineering. 
+𝐇𝐢 𝐭𝐡𝐞𝐫𝐞! 𝐈'𝐦 𝐄𝐫𝐢𝐜 𝐌𝐚𝐭𝐢𝐚𝐬, 𝟏𝟕 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐢𝐯𝐢𝐧𝐠 𝐡𝐞𝐫𝐞 𝐢𝐧 𝐁𝐫𝐚𝐳𝐢𝐥! 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠.
+
