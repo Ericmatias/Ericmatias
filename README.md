@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Ericmatias
-- 👀 I’m interested in InfoSecutity, Web development and software engineering.
-- 🌱 I’m currently learning: JS/Python/...
-- 💞️ I’m looking to collaborate on projects.
+Me chamo Eric Matias e atualmente estudo Desenvolvimento Web e Desenvolvimento de Software. 
 
 <!---
 Ericmatias/Ericmatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
