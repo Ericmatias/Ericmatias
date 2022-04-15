@@ -1,2 +1,5 @@
-𝐇𝐢 𝐭𝐡𝐞𝐫𝐞! 𝐈'𝐦 𝐄𝐫𝐢𝐜 𝐌𝐚𝐭𝐢𝐚𝐬, 𝟏𝟕 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐢𝐯𝐢𝐧𝐠 𝐡𝐞𝐫𝐞 𝐢𝐧 𝐁𝐫𝐚𝐳𝐢𝐥! 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞.
+Hi! I'm Eric Matias, 17 years old from Brazil.
+
+I'm a technology student. I am a majoring student of Information Systems, at Goiás State University (UEG, Universidade Estadual de Goiás) in Anápolis, Goiás.
+
 
